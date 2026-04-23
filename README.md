@@ -65,11 +65,6 @@ Dataset
 
 * Iris flower dataset
 * Contains 150 flower samples
-* Three flower classes:
-
-  * Setosa
-  * Versicolor
-  * Virginica
 
 Algorithm
 
