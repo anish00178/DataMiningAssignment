@@ -10,8 +10,8 @@ These assignments demonstrate how different machine learning algorithms can be u
 
 | Assignment                 | Dataset      | Algorithm                 | Accuracy |
 | -------------------------- | ------------ | ------------------------- | -------- |
-| Digit Recognition          | MNIST        | Logistic Regression       | 90–95%   |
-| Digit Recognition          | MNIST        | Gaussian Naive Bayes      | 80–85%   |
+| Digit Recognition          | MNIST        | Logistic Regression       | 95–100%   |
+| Digit Recognition          | MNIST        | Gaussian Naive Bayes      | 85–90%   |
 | Iris Flower Classification | Iris Dataset | K-Nearest Neighbors (KNN) | 95–100%  |
 
 
