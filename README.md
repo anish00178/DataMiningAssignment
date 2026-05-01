@@ -147,6 +147,7 @@ Data-Mining-Assignments/
 
 * MNIST dataset from OpenML
 * Iris dataset from scikit-learn
+* kaggle Dataset
 
 
 👨‍💻 Author
