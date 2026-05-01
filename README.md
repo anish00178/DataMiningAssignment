@@ -133,7 +133,7 @@ python knn_iris.py
 📁 Project Structure
 
 ```text
-Data-Mining-Assignments/
+Data_miningAssignments/
 │
 ├── Cancer
 ├── DigitRecognition
